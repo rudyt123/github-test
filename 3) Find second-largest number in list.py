@@ -1,8 +1,3 @@
-list_1 = [1, 2, 3, 909, 3, 3, 212, 24, 5, 8, 1]
-Largest = 0
-Lrgst_determine = []
-l_2nd_help = []
-second_largest = 0
 
 # this loop is used to find the largest value and set it as largest
 for no in list_1:
